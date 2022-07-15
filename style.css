@@ -162,12 +162,12 @@ img {
 }
 
 .card.time-out .back-view{
-    opacity: 0.3;
+    opacity: 0.75;
     box-shadow: 0 0 0 0 #000;
 }
 
 .card.time-out{
-    transform: rotateY(180deg) scale(0.74);
+    transform: rotateY(180deg) scale(0.75);
 }
 
 .achievement{
