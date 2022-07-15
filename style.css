@@ -51,6 +51,7 @@ img {
 
 .card .view {
     backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
     box-shadow: 8px 8px 8px -4px #c8ccd4;
     border-radius: 6px;
     background-color: #fff;
